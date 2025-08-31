@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    border: 2px solid black;
+    height: 60px;
+    width: 60px;
+    margin: 2px;
+    padding: 2px;
+    background-color: orange;
+}
